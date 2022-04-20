@@ -10,4 +10,8 @@
 - 🤔 I'm looking for help / collaboration with creating an open source project about amazing Surf Spots [Check it out here](https://github.com/Vixy88/surfspots-python-django)
 - 📫 You can reach me on michael@hyrdle.com
 
+### Most used languages
+
+#### I have been working with a client who used Shopify where the templating langugage Liquid was used
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vixy88&show_icons=true&theme=gotham)](https://github.com/Vixy88/github-readme-stats)
