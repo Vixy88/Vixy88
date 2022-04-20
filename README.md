@@ -4,6 +4,8 @@
 
 [![Vixy88's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vixy88&hide=contribs&count_private=true&show_icons=true&theme=gotham)](https://github.com/Vixy88/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vixy88)](https://github.com/Vixy88/github-readme-stats)
+
 - 🔭 I’m currently working on Python and React Projects 
 - 🌱 I’m currently learning Python and SQL
 - 💬 Ask me about anything you think I can help with
