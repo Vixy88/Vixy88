@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Michael Jakobsen, I am a Junior Software Engineer, Army veteran and Surf 🏄🏽‍♂️ enthusiast from Denmark 🇩🇰
+#### I'm Michael Jakobsen, I am a Junior Software Developer, Army veteran and Surf Enthusiast 🏄🏽‍♂️
 
 [![Vixy88's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vixy88&hide=contribs&count_private=true&show_icons=true&theme=gotham)](https://github.com/Vixy88/github-readme-stats)
 
