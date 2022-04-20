@@ -7,7 +7,8 @@
 - 🔭 I’m currently working on Python and React Projects 
 - 🌱 I’m currently learning Python and SQL
 - 💬 Ask me about anything you think I can help with
-- 🤔 I'm looking for help with creating an open source project about amazing Surf Spots [!Check out my progress so far](https://github.com/Vixy88/surfspots-python-django)
+- 🤔 I'm looking for help / collaboration with creating an open source project about amazing Surf Spots [Check it out here](https://github.com/Vixy88/surfspots-python-django)
+- 📫 You can reach me on michael@hyrdle.com
 
 <!--
 **Vixy88/Vixy88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
