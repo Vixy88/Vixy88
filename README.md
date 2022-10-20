@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on Supabase and React Projects 
 - 🌱 I’m currently learning Supabase and refreshing my React basics
 - 💬 Ask me about anything you think I can help with
-- 🤔 I'm looking for help / collaboration with creating an open source project about amazing Surf Spots [Check it out here](https://github.com/Vixy88/surfspots-python-django)
+- 🤔 I'm looking for help / collaboration with creating an open source project about amazing Surf Spots [Check it out here](https://www.thesurfspots.com)
 - 📫 You can reach me on michael@hyrdle.com
 
 ### Frontend
