@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/michael-jakobsen" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" alt="Linkedin icon"/></a>
 <a href="https://twitter.com/MHJakobsen" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="20" height="20" alt="Linkedin icon"/></a>
 
-[![Vixy88's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vixy88&hide=contribs&count_private=true&show_icons=true&theme=gotham)](https://github.com/Vixy88/github-readme-stats)
+<!-- [![Vixy88's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vixy88&hide=contribs&count_private=true&show_icons=true&theme=gotham)](https://github.com/Vixy88/github-readme-stats) -->
 
 - 🔭 I’m currently working on Supabase and React Projects 
 - 🌱 I’m currently learning Supabase and refreshing my React basics
