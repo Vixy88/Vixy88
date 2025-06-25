@@ -7,6 +7,6 @@
 
 <!-- [![Vixy88's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vixy88&hide=contribs&count_private=true&show_icons=true&theme=gotham)](https://github.com/Vixy88/github-readme-stats) -->
 
-- 🔭 At work I’m currently working with NextJS, Vercel, Typescript, Node (Fastify), Vercel, SQL, Postgres and Fly.io
+- 🔭 At work I’m currently working with Python, React, React-Native, N8N, Supabase, NextJS, Vercel, Typescript, Node (Fastify), Vercel, SQL, Postgres and Fly.io
 - 🌱 Outside work I’m currently working with AI and Machine Learning
 - 💬 Ask me about anything you think I can help with
