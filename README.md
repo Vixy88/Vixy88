@@ -1,12 +1,40 @@
-### Hi there, I'm Michael Jakobsen 👋
+### Hi, I'm Michael Jakobsen 👋
 
-#### I am a Software Engineer, Army veteran and Surf Enthusiast 🏄🏽‍♂️
+Engineer, builder, and Army veteran.
 
-<a href="https://www.linkedin.com/in/michael-jakobsen" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" alt="Linkedin icon"/></a>
-<a href="https://twitter.com/MHJakobsen" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="20" height="20" alt="Linkedin icon"/></a>
+I work at the intersection of **software engineering, AI systems, Semantic Engineering and real-world products** — building everything from AI agents and automation workflows to full production platforms.
 
-<!-- [![Vixy88's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vixy88&hide=contribs&count_private=true&show_icons=true&theme=gotham)](https://github.com/Vixy88/github-readme-stats) -->
+Outside of work I build projects that explore **agentic AI, automation, and applied machine learning**, usually glued together with practical infrastructure.
 
-- 🔭 At work I’m currently working with Python, React, React-Native, N8N, Supabase, NextJS, Vercel, Typescript, Node (Fastify), Vercel, SQL, Postgres and Fly.io
-- 🌱 Outside work I’m currently working with AI and Machine Learning
-- 💬 Ask me about anything you think I can help with
+<a href="https://www.linkedin.com/in/michael-jakobsen" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" alt="LinkedIn icon"/>
+</a>
+<a href="https://twitter.com/MHJakobsen" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="20" height="20" alt="Twitter icon"/>
+</a>
+
+---
+
+### What I work with
+
+- **Languages & Frameworks**  
+  Python · TypeScript · React · React Native · Next.js · Node.js 
+
+- **AI & Automation**  
+  AI Agents · LLM workflows · n8n · LangChain · Retrieval systems · Ollama
+
+- **Infrastructure & Data**  
+  Supabase · PostgreSQL · Fly.io · Vercel · Docker 
+
+---
+
+### What I'm building
+
+- AI-powered automation systems  
+- Knowledge graph and semantic AI applications  
+- Developer tools and internal platforms  
+- Side projects exploring practical uses of AI
+
+---
+
+💬 Always happy to talk about AI systems, product engineering, or interesting technical problems.
