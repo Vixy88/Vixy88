@@ -1,6 +1,6 @@
 ### Hi, I'm Michael Jakobsen 👋
 
-Engineer, builder, and Army veteran.
+Engineer, Product and Delivery Leader, and Army veteran.
 
 I work at the intersection of **software engineering, AI systems, Semantic Engineering and real-world products** — building everything from AI agents and automation workflows to full production platforms.
 
